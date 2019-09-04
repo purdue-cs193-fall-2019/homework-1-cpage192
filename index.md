@@ -36,6 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+# Chris's First CS193 Homework
+
 ### My Favorite Things About CS193
 
 - Taught by CS students (who know what its like to be us)
